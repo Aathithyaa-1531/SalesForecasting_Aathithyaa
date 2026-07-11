@@ -74,4 +74,4 @@ python generate_pdf_report.py
 
 ## 👤 Author
 *   **Name:** Aathithyaa
-*   **GitHub Profile:** [@Aathithyaa-1531](https://github.com/Aathithyaa-1531)
+* B.Tech( Artificial Intelligence and Data Science )
